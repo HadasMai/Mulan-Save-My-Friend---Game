@@ -1,12 +1,9 @@
-# Mulan-Save-My-Friend---Game
+# Mulan-Save-My-Friend -Game
 
-# Project: Mulan - Save My Friend
 ![mulanAndMushuSprite](https://github.com/HadasMai/Mulan-Save-My-Friend---Game/assets/154980811/63e0148e-1c2e-4598-9d04-98615249cf8e)
 
 ## General Overview:
 This project involves developing the game "Mulan - Save My Friend".
-![help1](https://github.com/HadasMai/Mulan-Save-My-Friend---Game/assets/154980811/483a3a62-7928-4aba-8d74-56a6473b005f)
-
 ## Objective and End of the Game:
 The player's objective (as Mulan) is to rescue her friends from the enemies surrounding them from all directions, without being caught by the enemies, and to bring her friends to the king safely. The game continues as long as Mulan is not caught. Mulan has three lives. The game ends when all friends are brought to the king or when Mulan is caught by an enemy three times.
 
@@ -85,3 +82,5 @@ We used the SFML library for graphics and sound. Follow these instructions to in
 
 1. Download the SFML library from the [official website](https://www.sfml-dev.org/download/sfml/2.5.1). The direct link for the 64-bit Visual C++ 2017 file is [here](https://www.sfml-dev.org/files/SFML-2.5.1-windows-vc15-64-bit.zip).
 2. Extract the downloaded file into a folder named `SFML` in your `C:` drive. After extraction, you should have a folder structure like `C:\SFML\SFML-2.5.1` with subfolders such as `bin`, `include`, `lib`, etc.
+   ![help1](https://github.com/HadasMai/Mulan-Save-My-Friend---Game/assets/154980811/483a3a62-7928-4aba-8d74-56a6473b005f)
+
